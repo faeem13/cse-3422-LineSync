@@ -1,6 +1,6 @@
-# Product name
+# LineSync
 
-One sentence: who this is for and what problem it solves.
+The Smart Queue Management System is designed for patients, bank customers, students, and service staff to reduce physical waiting time, provide real-time queue tracking, and improve service management.
 
 | | |
 |---|---|
